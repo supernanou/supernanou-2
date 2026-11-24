@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=C9A7EB&center=true&vCenter=true&width=600&lines=building+little+worlds+%F0%9F%8E%AE;teaching+big+ideas+%F0%9F%8C%B1;making+everyday+life+a+little+cozier+%E2%98%95;coding+is+for+everyone+%E2%99%A1" alt="typing intro" />
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding animation" />
+<img src="https://media.giphy.com/media/MeIucAjPKoA120R7sN/giphy.gif" width="200" alt="cute bunny waving" />
 
 <br><br>
 
@@ -29,6 +29,8 @@ Hi! I'm **Antonia**, a game developer, team lead, coding educator, and creative 
 I spend my days building games, teaching people how to code, exploring new technologies, and turning random ideas into something fun and interactive.
 
 I believe technology should feel **creative, welcoming, and a little less intimidating**.
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="300" alt="pastel coding illustration" />
 
 When I'm not writing code, you'll probably find me rearranging my desk, testing a new mechanical keyboard, making something cute, or enjoying a cozy afternoon at home.
 
@@ -83,6 +85,8 @@ A little glimpse into my work:
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> what i do
+
+<div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220" alt="cat coding on a laptop" /></div>
 
 <table>
 <tr>
@@ -156,11 +160,15 @@ As a **GirlCode Ambassador** and **Minecraft Education Ambassador**, I love enco
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" alt="VS Code, Git, GitHub, Linux" />
 
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="220" alt="kitten typing on a laptop" />
+
 </div>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="30" /> currently creating
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" align="right" width="150" alt="cat floating in space" />
 
 My work is a mix of game development, education, and creative experimentation.
 
@@ -198,9 +206,7 @@ Because there's more to life than debugging. ♡
 </td>
 <td align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="90" />
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog.png" width="90" />
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="220" alt="shiba typing on a laptop" />
 <br>
 <sub>marlena says hi 🐾</sub>
 
